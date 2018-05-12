@@ -1,0 +1,35 @@
+_repo: Wheat-and-HuckleberriesDr.-Northmore-s-Daughters_41515
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, Alice Barber
+    gutenberg_agent_id: '45898'
+    url: http://www.gutenberg.org/2009/agents/45898
+covers:
+- cover_type: archival
+  image_path: 41515-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vaile, Charlotte M. (Charlotte Marion)
+    alias: Vaile, Charlotte Marion
+    birthdate: 1852
+    deathdate: 1902
+    gutenberg_agent_id: '41213'
+    url: http://www.gutenberg.org/2009/agents/41213
+description: ''
+gutenberg_issued: '2012-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'New England -- Juvenile fiction'
+title: Wheat and Huckleberries; Or, Dr. Northmore's Daughters
+url: http://www.gutenberg.org/ebooks/41515
