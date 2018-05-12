@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41213'
     url: http://www.gutenberg.org/2009/agents/41213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41515#Wheat-and-HuckleberriesDr.-Northmore-s-Daughters
 gutenberg_issued: '2012-11-30'
 gutenberg_type: Text
 identifiers:
